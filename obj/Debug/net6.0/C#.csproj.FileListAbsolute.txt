@@ -1,0 +1,15 @@
+/home/nihat-bayram/Desktop/C#/bin/Debug/net6.0/C#
+/home/nihat-bayram/Desktop/C#/bin/Debug/net6.0/C#.deps.json
+/home/nihat-bayram/Desktop/C#/bin/Debug/net6.0/C#.runtimeconfig.json
+/home/nihat-bayram/Desktop/C#/bin/Debug/net6.0/C#.dll
+/home/nihat-bayram/Desktop/C#/bin/Debug/net6.0/C#.pdb
+/home/nihat-bayram/Desktop/C#/obj/Debug/net6.0/C#.csproj.AssemblyReference.cache
+/home/nihat-bayram/Desktop/C#/obj/Debug/net6.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/nihat-bayram/Desktop/C#/obj/Debug/net6.0/C#.AssemblyInfoInputs.cache
+/home/nihat-bayram/Desktop/C#/obj/Debug/net6.0/C#.AssemblyInfo.cs
+/home/nihat-bayram/Desktop/C#/obj/Debug/net6.0/C#.csproj.CoreCompileInputs.cache
+/home/nihat-bayram/Desktop/C#/obj/Debug/net6.0/C#.dll
+/home/nihat-bayram/Desktop/C#/obj/Debug/net6.0/refint/C#.dll
+/home/nihat-bayram/Desktop/C#/obj/Debug/net6.0/C#.pdb
+/home/nihat-bayram/Desktop/C#/obj/Debug/net6.0/C#.genruntimeconfig.cache
+/home/nihat-bayram/Desktop/C#/obj/Debug/net6.0/ref/C#.dll

@@ -10,11 +10,11 @@
         "projectUniqueName": "/home/nihat-bayram/Desktop/C#/C#.csproj",
         "projectName": "C#",
         "projectPath": "/home/nihat-bayram/Desktop/C#/C#.csproj",
-        "packagesPath": "/root/.nuget/packages/",
+        "packagesPath": "/home/nihat-bayram/.nuget/packages/",
         "outputPath": "/home/nihat-bayram/Desktop/C#/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/nihat-bayram/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
